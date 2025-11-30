@@ -24,6 +24,6 @@ Estilos inline (style="") para colores y padding
 
 Enlaces (<a>)
 
-Cómo probar el código en el navegador y hacer correcciones
+Y tambien cómo probar el código en el navegador y hacer correcciones
 
 
