@@ -20,8 +20,9 @@ Encabezados y párrafos (<h1>, <h2>, <h3>, <p>)
 
 Divisiones y secciones (<div>)
 
-Estilos inline (style="") para colores y padding
+Estilos inline (style="") para colores y padding.
 
+https://claritzamatosmatos57-sudo.github.io/Mi-aprendizaje/
 Enlaces (<a>)
 
 Y tambien cómo probar el código en el navegador y hacer correcciones
